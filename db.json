@@ -202,30 +202,6 @@
         },
         {
             "id": 26,
-            "name": "TRICYCLE 150CC",
-            "price": 986,
-            "quantity": 83,
-            "inCart": false,
-            "featured": true
-        },
-        {
-            "id": 27,
-            "name": "TRICYCLE 200CC",
-            "price": 831,
-            "quantity": 83,
-            "inCart": false,
-            "featured": true
-        },
-        {
-            "id": 28,
-            "name": "TRICYCLE 250CC",
-            "price": 119,
-            "quantity": 134,
-            "inCart": false,
-            "featured": true
-        },
-        {
-            "id": 29,
             "name": "MOTOR BIKE 125CC-1~5",
             "price": 385,
             "quantity": 82,
@@ -233,7 +209,7 @@
             "featured": true
         },
         {
-            "id": 30,
+            "id": 27,
             "name": "PORT 500 2 PHASE COIL",
             "price": 752,
             "quantity": 113,
