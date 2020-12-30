@@ -150,7 +150,7 @@
             "price": 874,
             "quantity": 42,
             "inCart": false,
-            "featured": false
+            "featured": true
         },
         {
             "id": 20,
@@ -158,7 +158,7 @@
             "price": 776,
             "quantity": 52,
             "inCart": false,
-            "featured": false
+            "featured": true
         },
         {
             "id": 21,
@@ -166,7 +166,7 @@
             "price": 266,
             "quantity": 87,
             "inCart": false,
-            "featured": false
+            "featured": true
         },
         {
             "id": 22,
@@ -174,7 +174,7 @@
             "price": 387,
             "quantity": 100,
             "inCart": false,
-            "featured": false
+            "featured": true
         },
         {
             "id": 23,
@@ -182,7 +182,7 @@
             "price": 512,
             "quantity": 40,
             "inCart": false,
-            "featured": false
+            "featured": true
         },
         {
             "id": 24,
@@ -190,7 +190,7 @@
             "price": 61,
             "quantity": 119,
             "inCart": false,
-            "featured": false
+            "featured": true
         },
         {
             "id": 25,
@@ -198,7 +198,7 @@
             "price": 733,
             "quantity": 119,
             "inCart": false,
-            "featured": false
+            "featured": true
         },
         {
             "id": 26,
@@ -206,7 +206,7 @@
             "price": 986,
             "quantity": 83,
             "inCart": false,
-            "featured": false
+            "featured": true
         },
         {
             "id": 27,
@@ -214,7 +214,7 @@
             "price": 831,
             "quantity": 83,
             "inCart": false,
-            "featured": false
+            "featured": true
         },
         {
             "id": 28,
@@ -222,7 +222,7 @@
             "price": 119,
             "quantity": 134,
             "inCart": false,
-            "featured": false
+            "featured": true
         },
         {
             "id": 29,
@@ -230,7 +230,7 @@
             "price": 385,
             "quantity": 82,
             "inCart": false,
-            "featured": false
+            "featured": true
         },
         {
             "id": 30,
