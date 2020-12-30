@@ -259,49 +259,83 @@
         {
             "id": 1,
             "date": "2012/12/02",
-            "amount": 372000,
-            "Items": [
-                {
-                    "id": 1,
-                    "name": "HELMET MOTOR BIKE",
-                    "priced": 692,
-                    "quantitySold": 144
-                },
+            "tax": 203.04,
+            "discount": 169.2,
+            "amount": 1725.84,
+            "items": [
                 {
                     "id": 2,
-                    "name": "DF21 GEEN BOOTS",
-                    "priced": 230,
-                    "quantitySold": 96
-                },
-                {
-                    "id": 3,
-                    "name": "GOGGLES",
-                    "priced": 604,
-                    "quantitySold": 40
+                    "name": "MACHINE CHAIN SAW BIG",
+                    "price": 472,
+                    "quantity": 82,
+                    "inCart": true,
+                    "featured": false,
+                    "count": 1,
+                    "total": 472
                 },
                 {
                     "id": 4,
-                    "name": "PESTICIDE AKATE GLOBAL 1LITER",
-                    "priced": 499,
-                    "quantitySold": 111
+                    "name": "MACHINE GENERATOR 6.5 KVA",
+                    "price": 506,
+                    "quantity": 107,
+                    "inCart": true,
+                    "featured": false,
+                    "count": 1,
+                    "total": 506
+                },
+                {
+                    "id": 5,
+                    "name": "MACHINE GENERATOR  3.2 KVA",
+                    "price": 714,
+                    "quantity": 126,
+                    "inCart": true,
+                    "featured": false,
+                    "count": 1,
+                    "total": 714
                 }
             ],
             "customer": {
-                "name": "John Doe",
-                "location": "Koforidua, Ejisu",
-                "phone": "+233033000000000"
+                "name": "Ogidi",
+                "location": "Nkoranza",
+                "Phone": "233856743765"
             }
         },
         {
             "id": 2,
             "date": "2014/09/22",
-            "amount": 14000,
-            "Items": [
+            "tax": 116.16,
+            "discount": 96.8,
+            "amount": 987.36,
+            "items": [
                 {
                     "id": 1,
-                    "name": "BOOTS JPO SERIES",
-                    "priced": 232,
-                    "quantitySold": 142
+                    "name": "MACHINE AIR BLOWER",
+                    "price": 223,
+                    "quantity": 63,
+                    "inCart": true,
+                    "featured": false,
+                    "count": 1,
+                    "total": 223
+                },
+                {
+                    "id": 2,
+                    "name": "MACHINE CHAIN SAW BIG",
+                    "price": 472,
+                    "quantity": 82,
+                    "inCart": true,
+                    "featured": false,
+                    "count": 1,
+                    "total": 472
+                },
+                {
+                    "id": 3,
+                    "name": "MACHINE CHAIN SAW  MEDIUM",
+                    "price": 273,
+                    "quantity": 46,
+                    "inCart": true,
+                    "featured": false,
+                    "count": 1,
+                    "total": 273
                 }
             ],
             "customer": {
@@ -312,12 +346,29 @@
         },
         {
             "date": "2020/12/25",
-            "amount": 7000,
-            "Items": [
+            "tax": 83.4,
+            "discount": 69.5,
+            "amount": 708.9,
+            "items": [
                 {
-                    "name": "New GOGGLES",
-                    "priced": 69.99,
-                    "quantitySold": 7
+                    "id": 1,
+                    "name": "MACHINE AIR BLOWER",
+                    "price": 223,
+                    "quantity": 63,
+                    "inCart": true,
+                    "featured": false,
+                    "count": 1,
+                    "total": 223
+                },
+                {
+                    "id": 2,
+                    "name": "MACHINE CHAIN SAW BIG",
+                    "price": 472,
+                    "quantity": 82,
+                    "inCart": true,
+                    "featured": false,
+                    "count": 1,
+                    "total": 472
                 }
             ],
             "customer": {
@@ -326,6 +377,50 @@
                 "phone": "+23324409090909"
             },
             "id": 3
+        },
+        {
+            "id": 4,
+            "date": "2012/12/02",
+            "tax": 388.92,
+            "discount": 324.1,
+            "amount": 3305.82,
+            "items": [
+                {
+                    "id": 2,
+                    "name": "MACHINE CHAIN SAW BIG",
+                    "price": 472,
+                    "quantity": 82,
+                    "inCart": true,
+                    "featured": false,
+                    "count": 2,
+                    "total": 944
+                },
+                {
+                    "id": 4,
+                    "name": "MACHINE GENERATOR 6.5 KVA",
+                    "price": 506,
+                    "quantity": 107,
+                    "inCart": true,
+                    "featured": false,
+                    "count": 3,
+                    "total": 1518
+                },
+                {
+                    "id": 6,
+                    "name": "MACHINE GENERATOR L/S",
+                    "price": 779,
+                    "quantity": 54,
+                    "inCart": true,
+                    "featured": false,
+                    "count": 1,
+                    "total": 779
+                }
+            ],
+            "customer": {
+                "name": "Roberto Manchini",
+                "location": "Kwahu Amanfrom",
+                "Phone": "2334567890"
+            }
         }
     ]
 }
