@@ -223,14 +223,14 @@
             "name": "Micheal",
             "email": "user@email.com",
             "password": 1234567,
-            "imageUrl": "images/profile2"
+            "imageUrl": "images/profile2.jpg"
         },
         {
             "id": 2,
             "name": "kafiwig",
             "email": "akua@email.com",
             "password": 1234567,
-            "imageUrl": "images/profile1"
+            "imageUrl": "images/profile1.jpg"
         }
     ],
     "sales": [
