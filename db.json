@@ -222,13 +222,15 @@
             "id": 1,
             "name": "Micheal",
             "email": "user@email.com",
-            "password": 1234567
+            "password": 1234567,
+            "imageUrl": "images/profile2"
         },
         {
             "id": 2,
             "name": "kafiwig",
             "email": "akua@email.com",
-            "password": 1234567
+            "password": 1234567,
+            "imageUrl": "images/profile1"
         }
     ],
     "sales": [
